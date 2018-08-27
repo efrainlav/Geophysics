@@ -4,7 +4,7 @@ Este repositorio tiene como objetivo rehacer los tutoriales de Python de la SEG 
 
 Espero quien visite este repositorio encuentre de utilidad los archivos en el alojados.
 
-Cualquier inquietud pueden comunicarse conmigo a mi mail
+Cualquier inquietud pueden comunicarse conmigo al mai l
 
 efrainlav@gmail.com
 
