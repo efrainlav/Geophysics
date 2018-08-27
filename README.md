@@ -4,7 +4,8 @@ Este repositorio tieene como objetivo ver los tutoriales de Python de la SEG, pe
 
 Espero quien visite este repositorio encuentre de utilidad los archivos en el alojados.
 
-Cualquier inquietud pueden comunicarse conmigo a mi mail
+Cualquier inquietud pueden comunicarse conmigo al mail
 
 efrainlav@gmail.com
+
 ealaverdem@unal.edu.co
